@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dfcc"
+version = "0.1.0"
+description = "DF-aware tensor contraction optimizer for electronic structure theory"
+authors = [{name = "Muskan Begum"}]
+dependencies = ["numpy"]
+

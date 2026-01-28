@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+dfcc/__init__.py
+dfcc/expr.py
+dfcc/index.py
+dfcc/optimizer.py
+dfcc/tensor.py
+dfcc.egg-info/PKG-INFO
+dfcc.egg-info/SOURCES.txt
+dfcc.egg-info/dependency_links.txt
+dfcc.egg-info/requires.txt
+dfcc.egg-info/top_level.txt
